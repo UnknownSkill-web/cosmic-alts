@@ -84,3 +84,11 @@ body, html {
 .info-box ul li {
   margin-bottom: 12px;
 }
+
+.info-box .creator {
+  text-align: center;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.4);
+  margin-top: 20px;
+}
+
